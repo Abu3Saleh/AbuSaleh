@@ -1,1 +1,19 @@
-{ "Gold": { "update_code": "6", "reminder_time": "3", "update_version": "v30.20", "com.WhatsApp2Plus": "https://9aleh.com/whatsapp-gold/", "com.WhatsApp3Plus": "https://9aleh.com/whatsapp-gold/", "update_message": " <p>Update Vتحديث جديد« 30.20</p> \n• [new update].\n• It contains many great new features.\n• More important fixes and improvements.\n• [تحديث جديد ممتع].\n• يحتوي على العديد من المزايا الجديد الرائعة.\n• مزيد إصلاحات وتحسينات أخرى مهمة.\n " } }
+{
+  "Gold": {
+    "update_code": "6",
+    "reminder_time": "3",
+    "update_version": "v30.20",
+    "com.WhatsApp2Plus": "https://9aleh.com/whatsapp-gold/",
+    "com.WhatsApp3Plus": "https://9aleh.com/whatsapp-gold/",
+    "update_message": "
+<p>Update Vتحديث جديد« 30.20</p>
+<li>[تحديث جديد ممتع]</li>
+<li>تفعيل ارسال مقطع صوتي للاستماع لمرة واحدة</li>
+<li>مزيد إصلاحات وتحسينات أخرى مهمة</li>
+
+<li>[new update]</li>
+<li>Added option to hide revoked story notification</li>
+<li>More important fixes and improvements.</li>
+"
+    }
+}
