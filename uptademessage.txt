@@ -7,11 +7,11 @@
     "com.WhatsApp3Plus": "https://9aleh.com/whatsapp-gold/",
     "update_message": "
 <p>Update Vتحديث جديد« 30.20</p>
-<li>[تحديث جديد ممتع]</li>
+<li>تحديث جديد ممتع</li>
 <li>تفعيل ارسال مقطع صوتي للاستماع لمرة واحدة</li>
 <li>مزيد إصلاحات وتحسينات أخرى مهمة</li>
 
-<li>[new update]</li>
+<li>new update</li>
 <li>Added option to hide revoked story notification</li>
 <li>More important fixes and improvements.</li>
 "
